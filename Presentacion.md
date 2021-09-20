@@ -3,6 +3,6 @@
 # Miembros
 ### Desarrolladora: Alexandra Buendía Deavila alexandrabuendiad@gmail.com
 ### Product owner: Hugo Andres Cabrera Lagos hugoandres.cl@gmail.com
-### Analista:
+### Analista: Katherin Giselle Sánchez Osorio giss911018@gmail.com
 ### Administradora de BD: Sharon Juliana Barboza Maestre sharonbarboza2004.sb@gmail.com 
-### Scrum Master: Holman Jr Zarta Zarate juniorzartazarate@gmail.com
+### Scrum Master: Holman  Jr Zarta Zarate juniorzartazarate@gmail.com
